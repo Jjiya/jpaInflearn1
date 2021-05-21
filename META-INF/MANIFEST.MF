@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jpashop
+Bundle-SymbolicName: jpashop
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: jpashop
+Export-Package: jpabook.jpashop
+Require-Bundle: org.junit
